@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 ## Jackson Morris's Homepage
-Hello World
+I am a fourth year mathematics student at UCLA. My main interests are (quantum) algorithms, data structrues, and graph theory. Broadly, I am interested in most aspects of theoretical computer science.
