@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jackson Morris"
   avatar           : "photo_of_me.png"
-  bio              : "I am a fourth year mathematics student at UCLA. My main interests are (quantum) algorithms, data structrues, and graph theory. Broadly, I am interested in most aspects of theoretical computer science."
+  bio              : 
   location         : "Los Angeles, CA"
   employer         :
   pubmed           : 
