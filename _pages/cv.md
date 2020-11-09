@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-![cv](jrexmo.github.io/Jackson_CV_2020 (2).pdf)
+![cv](https://jrexmo.github.io/Jackson_CV_2020%20(2).pdf)
 
 
 
