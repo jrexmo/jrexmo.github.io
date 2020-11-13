@@ -10,7 +10,7 @@ redirect_from:
 Here is some of my work (click for abstract):
 
 <details>
-  <summary>1. Vertex coloring and related problems in the quantum query model [2020, with [Fang Song](https://fangsong.info/)]</summary>  
+  <summary>1. Vertex coloring and related problems in the quantum query model - 2020, with [Fang Song](https://fangsong.info/)</summary>  
         
    
   Given a graph $G$ with $n$ vertices and maximum degree $\Delta$, it
