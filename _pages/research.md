@@ -22,11 +22,7 @@ Here is some of my work (click for abstract):
   making $\tilde{O}(n\sqrt{n})$ queries, improving over the greedy
   strategy. In addition, a lower bound of $\Omega(n\sqrt n)$ for any
   $O(\Delta)$-coloring, including $\Delta + 1$-coloring, is
-  established on general graphs.
-  \begin{math}
-   
-  \end{math}
-  The main result of this paper is a quantum algorithm in the query
+  established on general graphs. The main result of this paper is a quantum algorithm in the query
   model that bypasses the classical lower bound. Specifically for any
   $\delta > 0$ satisfying $\delta^{-1} = O(1)$, our algorithm makes
   $\tilde{O}(\epsilon^{-3/2}n^{4/3 + \delta/2})$ quantum queries and
