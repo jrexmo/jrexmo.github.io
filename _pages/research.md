@@ -1,7 +1,7 @@
 ---
 permalink: /research
-title: "Jackson Morris's Homepage"
-excerpt: "About me"
+title: "Jackson Morris's Research"
+excerpt: "Research"
 author_profile: true
 redirect_from: 
   - /research
