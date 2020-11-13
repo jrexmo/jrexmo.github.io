@@ -7,12 +7,12 @@ redirect_from:
   - /research
 ---
 
-Here is some of my work:
+Here is some of my work (click for abstract):
 
 <details>
-  <summary>1. Vertex coloring and related problems in the quantum query model [2020, with Fang Song]</summary>  
+  <summary>1. Vertex coloring and related problems in the quantum query model [2020, with [Fang Song](https://fangsong.info/)]</summary>  
         
-        ## Abstract
+   
   Given a graph $G$ with $n$ vertices and maximum degree $\Delta$, it
   is known that $G$ admits a vertex coloring with $\Delta + 1$ colors
   such that no edge of $G$ is monochromatic. This can be seen
@@ -24,22 +24,15 @@ Here is some of my work:
   $O(\Delta)$-coloring, including $\Delta + 1$-coloring, is
   established on general graphs.
 
-  % A closely related
-  % problem is that of coloring a graph with $(1 + \epsilon)\Delta$
-  % colors for $\epsilon \geq \frac{1}{\Delta}$.
+
+
   
   The main result of this paper is a quantum algorithm in the query
   model that bypasses the classical lower bound. Specifically for any
   $\delta > 0$ satisfying $\delta^{-1} = O(1)$, our algorithm makes
   $\tilde{O}(\epsilon^{-3/2}n^{4/3 + \delta/2})$ quantum queries and
   returns a valid $(1 + \epsilon)\Delta$-coloring with high
-  probability. % thus
-  % showing that the classical lower bounds do not hold in the quantum
-  % query model.
-  % The authors of $\cite{ACK19}$ also give a classical
-  % query lower bound of $\Omega(n^2)$ for the problem of maximal
-  % matching.
-  By similar techniques, we also give a quantum algorithm form
+  probability. By similar techniques, we also give a quantum algorithm form
   maximal-matching in the quantum query model that makes
   $\tilde{O}(n^{3/2 + \delta/2})$ queries, bypassing the classical lower
   bound $\Omega(n^2)$. Complementary to these algorithmic results, we
