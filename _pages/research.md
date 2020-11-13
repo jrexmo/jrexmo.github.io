@@ -1,10 +1,13 @@
 ---
-permalink: /research
+layout: archive
 title: "Jackson Morris's Research"
-excerpt: "My Research"
+permalink: /research/
 author_profile: true
-redirect_from: 
-  - /research/
-  - /research.html
+redirect_from:
+  - /research
 ---
-Here are some of the things that I have worked on
+
+Here is my work
+
+{% include base_path %}
+
