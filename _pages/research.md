@@ -24,8 +24,7 @@ Here is some of my work (click for abstract):
   $O(\Delta)$-coloring, including $\Delta + 1$-coloring, is
   established on general graphs.
   \begin{math}
-  \
-  \
+   
   \end{math}
   The main result of this paper is a quantum algorithm in the query
   model that bypasses the classical lower bound. Specifically for any
