@@ -10,7 +10,7 @@ redirect_from:
 Here is some of my work (click for abstract):
 
 <details>
-  <summary>1. Vertex coloring and related problems in the quantum query model - 2020, with [Fang Song](https://fangsong.info/)</summary>  
+  <summary>1. Vertex coloring and related problems in the quantum query model - 2020, with Fang Song [https://fangsong.info/] </summary>  
         
    
   Given a graph $G$ with $n$ vertices and maximum degree $\Delta$, it
@@ -23,10 +23,9 @@ Here is some of my work (click for abstract):
   strategy. In addition, a lower bound of $\Omega(n\sqrt n)$ for any
   $O(\Delta)$-coloring, including $\Delta + 1$-coloring, is
   established on general graphs.
-
-
-
-  
+  \
+  \
+  \
   The main result of this paper is a quantum algorithm in the query
   model that bypasses the classical lower bound. Specifically for any
   $\delta > 0$ satisfying $\delta^{-1} = O(1)$, our algorithm makes
