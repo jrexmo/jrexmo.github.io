@@ -13,9 +13,8 @@ Here is some of my work
 <details>
   <summary>1. Vertex coloring and related problems in the quantum query model [2020, with Fang Song]</summary>
   
-  ## Heading
-  1.
+  ## Abstract
+  {exp(-x^2-y^2)*x};
 </details>
-{exp(-x^2-y^2)*x};
 {% include base_path %}
 
