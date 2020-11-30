@@ -34,6 +34,7 @@ Here is some of my work (click for abstract):
   prove quantum lower bounds of $\Omega(n)$ for both
   $2\Delta$-coloring and maximal matching.
      
-</details>
+</details> 
+[PDF here](https://jrexmo.github.io/Vertex_coloring_and_related_problems_in_the_quantum_query_model_QIP.pdf)
 {% include base_path %}
 
