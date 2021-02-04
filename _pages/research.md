@@ -37,5 +37,6 @@ Here is some of my work (click for abstract):
 </details> 
 
 [PDF here](https://jrexmo.github.io/Vertex_coloring_and_related_problems_in_the_quantum_query_model_QIP.pdf)
+[Poster Here](https://jrexmo.github.io/Simple_Vertex_coloring_in_the_quantum_query_model__QIP_Poster_.pdf)
 {% include base_path %}
 
