@@ -7,5 +7,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! My name is Jackson Morrris I am excited about solving interesting problems with computers and math. 
-My broad research interests include algorithms, learning theory, and quantum computing.
+My name is Jackson Morrris I am currently a software engineer at Google in the bay area and was previously an undergraduate in math at UCLA. My research interests include algorithms, learning theory, and quantum computing. Lately, I have also been very interested in the role of randomness in computation. Broadly, I am interested in many aspects of theoretical computer science.
