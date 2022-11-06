@@ -10,7 +10,7 @@ redirect_from:
 Here is some of my work (click for abstract):
 
 <details>
-  <summary>1. Vertex coloring and related problems in the quantum query model - 2020, with Fang Song</summary>  
+  <summary>1. Simple vertex coloring algorithms - 2020, with Fang Song</summary>  
         
    
   Given a graph $G$ with $n$ vertices and maximum degree $\Delta$, it
@@ -22,21 +22,19 @@ Here is some of my work (click for abstract):
   making $\tilde{O}(n\sqrt{n})$ queries, improving over the greedy
   strategy. In addition, a lower bound of $\Omega(n\sqrt n)$ for any
   $O(\Delta)$-coloring, including $\Delta + 1$-coloring, is
-  established on general graphs. The main result of this paper is a quantum algorithm in the query
-  model that bypasses the classical lower bound. Specifically for any
-  $\delta > 0$ satisfying $\delta^{-1} = O(1)$, our algorithm makes
-  $\tilde{O}(\epsilon^{-3/2}n^{4/3 + \delta/2})$ quantum queries and
-  returns a valid $(1 + \epsilon)\Delta$-coloring with high
-  probability. By similar techniques, we also give a quantum algorithm form
-  maximal-matching in the quantum query model that makes
-  $\tilde{O}(n^{3/2 + \delta/2})$ queries, bypassing the classical lower
-  bound $\Omega(n^2)$. Complementary to these algorithmic results, we
-  prove quantum lower bounds of $\Omega(n)$ for both
-  $2\Delta$-coloring and maximal matching.
+  established on general graphs.
+  In this work, we give a simple algorithm for $(1+ϵ)Δ$-coloring. This
+  algorithm makes $O(\epsilon^{−1/2}n\sqrt{n})$ queries, which matches
+  the best existing algorithms as well as the classical lower bound for
+  sufficiently large $\epsilon$. Additionally, it can be readily adapted
+  to a quantum query algorithm making $\tilde{O}(\epsilon^{-1}n^{4/3})$
+  queries, bypassing the classical lower bound. Complementary to these
+  algorithmic results, we show a quantum lower bound of $\Omega(n)$
+  for $O(\Delta)$-coloring.
      
 </details> 
 
-[PDF here](https://jrexmo.github.io/simplevtx.pdf)
+[arXiv](https://arxiv.org/abs/2102.07089)
 [Poster Here](https://jrexmo.github.io/Simple_Vertex_coloring_in_the_quantum_query_model__QIP_Poster_.pdf)
 {% include base_path %}
 
