@@ -10,7 +10,7 @@ redirect_from:
 Here is some of my work (click for abstract):
 
 <details>
-  <summary>1. Simple vertex coloring algorithms - 2020, with Fang Song</summary>  
+  <summary>1. Simple vertex coloring algorithms - with Fang Song, QIP 2020</summary>  
         
    
   Given a graph $G$ with $n$ vertices and maximum degree $\Delta$, it
