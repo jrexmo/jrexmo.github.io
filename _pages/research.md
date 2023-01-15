@@ -12,26 +12,20 @@ Here is some of my work (click for abstract):
 <details>
   <summary>1. Simple vertex coloring algorithms - with Fang Song, QIP 2021</summary>  
         
-   
-  Given a graph $G$ with $n$ vertices and maximum degree $\Delta$, it
-  is known that $G$ admits a vertex coloring with $\Delta + 1$ colors
-  such that no edge of $G$ is monochromatic. This can be seen
-  constructively by a simple greedy algorithm, which runs in time
-  $O(n\Delta)$. Very recently, [Assdi et. al. SODA'19] presents a
-  randomized algorithm for $\Delta + 1$-coloring in the query model
-  making $\tilde{O}(n\sqrt{n})$ queries, improving over the greedy
-  strategy. In addition, a lower bound of $\Omega(n\sqrt n)$ for any
-  $O(\Delta)$-coloring, including $\Delta + 1$-coloring, is
-  established on general graphs.
-  In this work, we give a simple algorithm for $(1+ϵ)Δ$-coloring. This
-  algorithm makes $O(\epsilon^{−1/2}n\sqrt{n})$ queries, which matches
-  the best existing algorithms as well as the classical lower bound for
-  sufficiently large $\epsilon$. Additionally, it can be readily adapted
-  to a quantum query algorithm making $\tilde{O}(\epsilon^{-1}n^{4/3})$
-  queries, bypassing the classical lower bound. Complementary to these
-  algorithmic results, we show a quantum lower bound of $\Omega(n)$
-  for $O(\Delta)$-coloring.
-     
+ Given a graph G with n vertices and maximum degree $∆$, it is known that $G$ admits a vertex coloring
+with $∆ + 1$ colors such that no edge of $G$ is monochromatic. This can be seen constructively by a
+simple greedy algorithm, which runs in time $O(n∆)$.
+Very recently, a sequence of results (e.g., [Assadi et. al. SODA’19, Bera et. al. ICALP’20,
+AlonAssadi Approx/Random’20]) show randomized algorithms for $(1 + ε)∆$-coloring in the query
+model making  $\tilde{O}(n√n)$ queries, improving over the greedy strategy on dense graphs. In addition, a
+lower bound of $Ω(n√n)$ for any $O(∆)$-coloring is established on general graphs.
+In this work, we give a simple algorithm for $C$-coloring where $C > ∆ + 1$. This algorithm makes
+$O(\frac{n}{C−∆})$ queries. This matches the classical lower bound for $C ≥ c∆$ with $c ≫ 1$ and a new upper
+bound of $O(n^{\frac{k+2}{k + 1}})$ for $C = ∆^k ≥ ∆^2$. Additionally, it can be readily adapted to a quantum query
+algorithm making $\tilde{O}(n^{\frac{k + 3}{k + 2}})$ queries, bypassing the classical lower bound when $C = c∆$ for $c ≫ 1$.
+Further, we show that the algorithm presented in Assadi et. al. SODA’19 for ($∆ + 1)$-coloring can be adapted to a quantum algorithm making  $\tilde{O}(n^{4/3}) queries.
+We also show initial upper and lower bounds for the very closely related problem of $\textit{verifying}$
+whether or not a given graph coloring is valid.
 </details> 
 
 [arXiv](https://arxiv.org/abs/2102.07089)
