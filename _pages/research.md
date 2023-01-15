@@ -28,6 +28,7 @@ We also show initial upper and lower bounds for the very closely related problem
 whether or not a given graph coloring is valid.
 </details> 
 
+arXiv version slightly outdated, here [arXiv](https://jrexmo.github.io/Simple_Vertex_coloring_in_the_quantum_query_model__QIP_Poster_.pdf) is an up to date PDF
 [arXiv](https://arxiv.org/abs/2102.07089)
-[Poster Here](https://jrexmo.github.io/Simple_Vertex_coloring_in_the_quantum_query_model__QIP_Poster_.pdf)
+[Poster](https://jrexmo.github.io/Simple_Vertex_coloring_in_the_quantum_query_model__QIP_Poster_.pdf)
 
