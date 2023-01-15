@@ -23,12 +23,11 @@ In this work, we give a simple algorithm for $C$-coloring where $C > ∆ + 1$. T
 $O(\frac{n}{C−∆})$ queries. This matches the classical lower bound for $C ≥ c∆$ with $c ≫ 1$ and a new upper
 bound of $O(n^{\frac{k+2}{k + 1}})$ for $C = ∆^k ≥ ∆^2$. Additionally, it can be readily adapted to a quantum query
 algorithm making $\tilde{O}(n^{\frac{k + 3}{k + 2}})$ queries, bypassing the classical lower bound when $C = c∆$ for $c ≫ 1$.
-Further, we show that the algorithm presented in Assadi et. al. SODA’19 for ($∆ + 1)$-coloring can be adapted to a quantum algorithm making  $\tilde{O}(n^{4/3}) queries.
+Further, we show that the algorithm presented in Assadi et. al. SODA’19 for ($∆ + 1)$-coloring can be adapted to a quantum algorithm making  $\tilde{O}(n^{4/3})$ queries.
 We also show initial upper and lower bounds for the very closely related problem of $\textit{verifying}$
 whether or not a given graph coloring is valid.
 </details> 
 
 [arXiv](https://arxiv.org/abs/2102.07089)
 [Poster Here](https://jrexmo.github.io/Simple_Vertex_coloring_in_the_quantum_query_model__QIP_Poster_.pdf)
-{% include base_path %}
 
