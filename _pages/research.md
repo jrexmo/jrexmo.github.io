@@ -18,7 +18,7 @@ We prove that Threshold is indeed powerful--there are polynomial-size constant-d
 [arXiv](https://arxiv.org/abs/2411.04953)
 
 <details>
-  <summary>1. Simple vertex coloring algorithms - with Fang Song, QIP 2021</summary>  
+  <summary>2. Simple vertex coloring algorithms - with Fang Song, QIP 2021</summary>  
         
  Given a graph G with n vertices and maximum degree $∆$, it is known that $G$ admits a vertex coloring
 with $∆ + 1$ colors such that no edge of $G$ is monochromatic. This can be seen constructively by a
