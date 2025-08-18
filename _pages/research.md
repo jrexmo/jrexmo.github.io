@@ -15,7 +15,7 @@ We prove that Threshold is indeed powerful--there are polynomial-size constant-d
 
 </details> 
 
-[arXiv](https://arxiv.org/abs/2411.04953)
+[arXiv](https://arxiv.org/abs/2411.04953) [video](https://www.youtube.com/watch?v=nZ-0kmC9j5U&t=6s)
 
 <details>
   <summary>2. Simple vertex coloring algorithms - with Fang Song, QIP 2021</summary>  
