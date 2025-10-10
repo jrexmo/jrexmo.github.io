@@ -9,8 +9,6 @@ redirect_from:
 
 Here is some of my work (click for abstract):
 
-Quantum Advantage from Sampling Shallow Circuits: Beyond Hardness of Marginals
-https://arxiv.org/abs/2510.07808
 <details>
   <summary>1. Quantum Advantage from Sampling Shallow Circuits: Beyond Hardness of Marginals - with Daniel Grier, Daniel Kane, Anthony Ostuni, and Kewen Wu </summary>  
 We construct a family of distributions $\{\mathcal{D}_n\}_n$ with $\mathcal{D}_n$ over $\{0, 1\}^n$ and a family of depth-$7$ quantum circuits $\{C_n\}_n$ such that $\mathcal{D}_n$ is produced exactly by $C_n$ with the all zeros state as input, yet any constant-depth classical circuit with bounded fan-in gates evaluated on any binary product distribution has total variation distance $1 - e^{-\Omega(n)}$ from $\mathcal{D}_n$. Moreover, the quantum circuits we construct are geometrically local and use a relatively standard gate set: Hadamard, controlled-phase, CNOT, and Toffoli gates. All previous separations of this type suffer from some undesirable constraint on the classical circuit model or the quantum circuits witnessing the separation.
