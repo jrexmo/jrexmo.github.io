@@ -8,6 +8,21 @@ redirect_from:
 ---
 
 Here is some of my work (click for abstract):
+
+Quantum Advantage from Sampling Shallow Circuits: Beyond Hardness of Marginals
+https://arxiv.org/abs/2510.07808
+<details>
+  <summary>1. Quantum Advantage from Sampling Shallow Circuits: Beyond Hardness of Marginals - with Daniel Grier, Daniel Kane, Anthony Ostuni, and Kewen Wu </summary>  
+We construct a family of distributions $\{\mathcal{D}_n\}_n$ with $\mathcal{D}_n$ over $\{0, 1\}^n$ and a family of depth-$7$ quantum circuits $\{C_n\}_n$ such that $\mathcal{D}_n$ is produced exactly by $C_n$ with the all zeros state as input, yet any constant-depth classical circuit with bounded fan-in gates evaluated on any binary product distribution has total variation distance $1 - e^{-\Omega(n)}$ from $\mathcal{D}_n$. Moreover, the quantum circuits we construct are geometrically local and use a relatively standard gate set: Hadamard, controlled-phase, CNOT, and Toffoli gates. All previous separations of this type suffer from some undesirable constraint on the classical circuit model or the quantum circuits witnessing the separation.
+    
+Our family of distributions is inspired by the Parity Halving Problem of Watts, Kothari, Schaeffer, and Tal (STOC, 2019), which built on the work of Bravyi, Gosset, and K\"onig (Science, 2018) to separate shallow quantum and classical circuits for relational problems.
+
+</details> 
+
+[arXiv](https://arxiv.org/abs/2510.07808) 
+
+
+
 <details>
   <summary>1. Quantum Threshold is Powerful - with Daniel Grier, CCC 2025 - <span style="color:red">Best Paper Award</span>, TQC 2025 </summary>  
 In 2005, Høyer and Špalek showed that constant-depth quantum circuits augmented with multi-qubit Fanout gates are quite powerful, able to compute a wide variety of Boolean functions as well as the quantum Fourier transform. They also asked what other multi-qubit gates could rival Fanout in terms of computational power, and suggested that the quantum Threshold gate might be one such candidate. Threshold is the gate that indicates if the Hamming weight of a classical basis state input is greater than some target value.
