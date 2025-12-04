@@ -10,7 +10,7 @@ redirect_from:
 Here is some of my work (click for abstract):
 
 <details>
-  <summary>1. Quantum Advantage from Sampling Shallow Circuits: Beyond Hardness of Marginals - with Daniel Grier, Daniel Kane, Anthony Ostuni, and Kewen Wu </summary>  
+  <summary>1. Quantum Advantage from Sampling Shallow Circuits: Beyond Hardness of Marginals - with Daniel Grier, Daniel Kane, Anthony Ostuni, and Kewen Wu, QIP 2026, ITCS 2026 </summary>  
 We construct a family of distributions $\{\mathcal{D}_n\}_n$ with $\mathcal{D}_n$ over $\{0, 1\}^n$ and a family of depth-$7$ quantum circuits $\{C_n\}_n$ such that $\mathcal{D}_n$ is produced exactly by $C_n$ with the all zeros state as input, yet any constant-depth classical circuit with bounded fan-in gates evaluated on any binary product distribution has total variation distance $1 - e^{-\Omega(n)}$ from $\mathcal{D}_n$. Moreover, the quantum circuits we construct are geometrically local and use a relatively standard gate set: Hadamard, controlled-phase, CNOT, and Toffoli gates. All previous separations of this type suffer from some undesirable constraint on the classical circuit model or the quantum circuits witnessing the separation.
     
 Our family of distributions is inspired by the Parity Halving Problem of Watts, Kothari, Schaeffer, and Tal (STOC, 2019), which built on the work of Bravyi, Gosset, and K\"onig (Science, 2018) to separate shallow quantum and classical circuits for relational problems.
