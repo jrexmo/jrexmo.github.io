@@ -9,9 +9,21 @@ redirect_from:
 
 Here is some of my work (click for abstract):
 
+<details>
+  <summary>1. Hard-to-Sample Distributions from Robust Extractors - with Farzan Byramji, Daniel Kane, and Anthony Ostuni </summary>
+ We provide a unified method for constructing explicit distributions which are difficult for restricted models of computation to generate.
+    Our constructions are based on a new notion of \emph{robust extractors}, which are extractors that remain sound even when a small number of points violate the min-entropy constraint.
+    Using such objects, we show that for a broad range of sampling models (e.g., low-depth circuits, small-space sources, etc.), every output of the model has distance $1 - o(1)$ from our
+    target distribution, qualitatively recovering essentially all previously known hardness results. Our work extends that of Viola (SICOMP '14), who developed an earlier unified
+    framework based on traditional extractors to rule out sampling with very small error.
+    
+  As a further application of our technique, we leverage a recent extractor construction of Chattopadhyay, Goodman, and Gurumukhani (ITCS '24) to present the first explicit distribution with distance $1 - o(1)$ from the output of any low-degree $\mathbb{F}_2$-polynomial source. We also describe a potential avenue toward proving a similar hardness result for $\mathsf{AC^0}[\oplus]$ circuits.
+</details> 
+
+[arXiv](https://arxiv.org/abs/2604.26179) 
 
 <details>
-  <summary>1. $\mathsf{QAC}^0$ Contains $\mathsf{TC}^0$ (with Many Copies of the Input) - with Daniel Grier and Kewen Wu </summary>  
+  <summary>2. $\mathsf{QAC}^0$ Contains $\mathsf{TC}^0$ (with Many Copies of the Input) - with Daniel Grier and Kewen Wu </summary>  
   $\mathsf{QAC}^0$ is the class of constant-depth polynomial-size quantum circuits constructed from arbitrary single-qubit gates and generalized Toffoli gates. 
   It is arguably the smallest natural class of constant-depth quantum computation which has not been shown useful for computing \emph{any} non-trivial Boolean function. Despite this, many    attempts to port classical $\mathsf{AC}^0$ lower bounds to $\mathsf{QAC}^0$ have failed. 
 
@@ -26,7 +38,7 @@ Here is some of my work (click for abstract):
 
 
 <details>
-  <summary>2. Quantum Advantage from Sampling Shallow Circuits: Beyond Hardness of Marginals - with Daniel Grier, Daniel Kane, Anthony Ostuni, and Kewen Wu, QIP 2026, ITCS 2026 </summary>  
+  <summary>3. Quantum Advantage from Sampling Shallow Circuits: Beyond Hardness of Marginals - with Daniel Grier, Daniel Kane, Anthony Ostuni, and Kewen Wu, QIP 2026, ITCS 2026 </summary>  
 We construct a family of distributions $\{\mathcal{D}_n\}_n$ with $\mathcal{D}_n$ over $\{0, 1\}^n$ and a family of depth-$7$ quantum circuits $\{C_n\}_n$ such that $\mathcal{D}_n$ is produced exactly by $C_n$ with the all zeros state as input, yet any constant-depth classical circuit with bounded fan-in gates evaluated on any binary product distribution has total variation distance $1 - e^{-\Omega(n)}$ from $\mathcal{D}_n$. Moreover, the quantum circuits we construct are geometrically local and use a relatively standard gate set: Hadamard, controlled-phase, CNOT, and Toffoli gates. All previous separations of this type suffer from some undesirable constraint on the classical circuit model or the quantum circuits witnessing the separation.
     
 Our family of distributions is inspired by the Parity Halving Problem of Watts, Kothari, Schaeffer, and Tal (STOC, 2019), which built on the work of Bravyi, Gosset, and K\"onig (Science, 2018) to separate shallow quantum and classical circuits for relational problems.
@@ -38,7 +50,7 @@ Our family of distributions is inspired by the Parity Halving Problem of Watts, 
 
 
 <details>
-  <summary>3. Quantum Threshold is Powerful - with Daniel Grier, CCC 2025 - <span style="color:red">Best Paper Award</span>, TQC 2025 </summary>  
+  <summary>4. Quantum Threshold is Powerful - with Daniel Grier, CCC 2025 - <span style="color:red">Best Paper Award</span>, TQC 2025 </summary>  
 In 2005, Høyer and Špalek showed that constant-depth quantum circuits augmented with multi-qubit Fanout gates are quite powerful, able to compute a wide variety of Boolean functions as well as the quantum Fourier transform. They also asked what other multi-qubit gates could rival Fanout in terms of computational power, and suggested that the quantum Threshold gate might be one such candidate. Threshold is the gate that indicates if the Hamming weight of a classical basis state input is greater than some target value.
 We prove that Threshold is indeed powerful--there are polynomial-size constant-depth quantum circuits with Threshold gates that compute Fanout to high fidelity. Our proof is a generalization of a proof by Rosenthal that exponential-size constant-depth circuits with generalized Toffoli gates can compute Fanout. Our construction reveals that other quantum gates able to "weakly approximate" Parity can also be used as substitutes for Fanout.
 
@@ -47,7 +59,7 @@ We prove that Threshold is indeed powerful--there are polynomial-size constant-d
 [arXiv](https://arxiv.org/abs/2411.04953) [video](https://www.youtube.com/watch?v=nZ-0kmC9j5U&t=6s)
 
 <details>
-  <summary>4. Simple vertex coloring algorithms - with Fang Song, QIP 2021</summary>  
+  <summary>5. Simple vertex coloring algorithms - with Fang Song, QIP 2021</summary>  
         
  Given a graph G with n vertices and maximum degree $∆$, it is known that $G$ admits a vertex coloring
 with $∆ + 1$ colors such that no edge of $G$ is monochromatic. This can be seen constructively by a
