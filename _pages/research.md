@@ -34,7 +34,7 @@ Here is some of my work (click for abstract):
 
 </details> 
 
-[arXiv](https://arxiv.org/abs/2601.03243) 
+[arXiv](https://arxiv.org/abs/2601.03243) [video](https://www.youtube.com/watch?v=qITS0Kxtyik&t=2809s)
 
 
 <details>
