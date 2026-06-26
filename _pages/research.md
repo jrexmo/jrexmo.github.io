@@ -9,7 +9,7 @@ redirect_from:
 
 Here is some of my work (click for abstract):
 <details>
-  <summary> On the Advantage of Adaptivity for Sampling with Cell Probes - with Farzan Byramji, Daniel Kane, and Anthony Ostuni </summary>
+  <summary> On the Advantage of Adaptivity for Sampling with Cell Probes - with Farzan Byramji, Daniel Kane, and Anthony Ostuni, RANDOM 2026 </summary>
   We construct an explicit distribution $\mathbf{D}$ over $\{0,1\}^N$ that exhibits an essentially optimal separation between adaptive and non-adaptive cell-probe sampling.
     The distribution can be sampled exactly when each output bit is allowed two adaptive probes to an arbitrarily long sequence of independent uniform symbols from $[N]$.
     In contrast, any non-adaptive sampler requires $\tilde{\Omega}(N)$ non-adaptive cell probes to generate a distribution with total variation distance less than $1-o(1)$ from $\mathbf{D}$.
@@ -20,7 +20,7 @@ Here is some of my work (click for abstract):
 
 
 <details>
-  <summary> Hard-to-Sample Distributions from Robust Extractors - with Farzan Byramji, Daniel Kane, and Anthony Ostuni </summary>
+  <summary> Hard-to-Sample Distributions from Robust Extractors - with Farzan Byramji, Daniel Kane, and Anthony Ostuni, RANDOM 2026 </summary>
  We provide a unified method for constructing explicit distributions which are difficult for restricted models of computation to generate.
     Our constructions are based on a new notion of \emph{robust extractors}, which are extractors that remain sound even when a small number of points violate the min-entropy constraint.
     Using such objects, we show that for a broad range of sampling models (e.g., low-depth circuits, small-space sources, etc.), every output of the model has distance $1 - o(1)$ from our
