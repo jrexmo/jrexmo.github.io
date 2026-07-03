@@ -33,7 +33,7 @@ Here is some of my work (click for abstract):
 [arXiv](https://arxiv.org/abs/2604.26179) 
 
 <details>
-  <summary> $\mathsf{QAC}^0$ Contains $\mathsf{TC}^0$ (with Many Copies of the Input) - with Daniel Grier and Kewen Wu </summary>  
+  <summary> $\mathsf{QAC}^0$ Contains $\mathsf{TC}^0$ (with Many Copies of the Input) - with Daniel Grier and Kewen Wu, FOCS 2026 </summary>  
   $\mathsf{QAC}^0$ is the class of constant-depth polynomial-size quantum circuits constructed from arbitrary single-qubit gates and generalized Toffoli gates. 
   It is arguably the smallest natural class of constant-depth quantum computation which has not been shown useful for computing \emph{any} non-trivial Boolean function. Despite this, many    attempts to port classical $\mathsf{AC}^0$ lower bounds to $\mathsf{QAC}^0$ have failed. 
 
