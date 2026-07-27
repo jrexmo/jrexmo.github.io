@@ -44,7 +44,7 @@ Here is some of my work (click for abstract):
 
 </details> 
 
-[arXiv](https://arxiv.org/abs/2601.03243) [video](https://www.youtube.com/watch?v=qITS0Kxtyik&t=2809s)
+[arXiv](https://arxiv.org/abs/2601.03243) [video](https://www.youtube.com/watch?v=qITS0Kxtyik&t=2809s) [Shtetl Optimized](https://scottaaronson.blog/?p=9528)
 
 
 <details>
