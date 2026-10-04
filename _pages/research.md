@@ -9,6 +9,14 @@ redirect_from:
 
 Here is some of my work (click for abstract):
 <details>
+  <summary> The Robustness of $\mathsf{𝖰𝖠𝖢}^0$ - with Daniel Grier and Kewen Wu </summary>
+    In this work we study the robustness of $\mathsf{𝖰𝖠𝖢}^0$ with respect to error tolerance and modifications to its gate-set. First, we investigate whether the non-zero error       typically allowed for $\mathsf{𝖰𝖠𝖢}^0$ circuits computing Boolean functions is truly necessary. We show that the error inherent in the parallel W-test of [GMW26] can be eliminated         entirely via a novel application of exact amplitude amplification in the many-copies context. Consequently, we find that $\mathsf{𝖰𝖠𝖢}^0$ can *exactly* simulate $\mathsf{T𝖢}^0$ with       polynomially many copies of the classical input and that for every fixed prime $p$ exact $\mathsf{𝖰𝖠𝖢}^0$, $\mathsf{E𝖰𝖠𝖢}^0$, can compute total Boolean functions outside of                 $\mathsf{𝖠𝖢}^0$[p].
+Second, we ask to what extent the computational power of 𝖰𝖠𝖢0 follows from the fact that arbitrary single-qubit gates may be used at any point in the circuit. We find that $\mathsf{𝖰𝖠𝖢}^0$ is in fact robust to restrictions on which single-qubit gates are permitted: every $\mathsf{𝖰𝖠𝖢}^0$ circuit can be approximately implemented by a $\mathsf{𝖰𝖠𝖢}^0$ circuit consisting of just generalized Toffoli, $S$, and Hadamard gates. Moreover, this approximating circuit can be constructed efficiently from a classical description of the original circuit.
+</details>
+
+[arXiv](https://arxiv.org/abs/2610.02154)
+
+<details>
   <summary> On the Advantage of Adaptivity for Sampling with Cell Probes - with Farzan Byramji, Daniel Kane, and Anthony Ostuni, RANDOM 2026 </summary>
   We construct an explicit distribution $\mathbf{D}$ over $\{0,1\}^N$ that exhibits an essentially optimal separation between adaptive and non-adaptive cell-probe sampling.
     The distribution can be sampled exactly when each output bit is allowed two adaptive probes to an arbitrarily long sequence of independent uniform symbols from $[N]$.
